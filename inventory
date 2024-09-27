@@ -1,3 +1,4 @@
-svr01@192.168.0.150
-svr03@192.168.0.219
-svr02@192.168.0.228
+svr01@192.168.0.150 apache_package=apache2 php_package=libapache2-mod-php
+svr03@192.168.0.219 apache_package=apache2 php_package=libapache2-mod-php
+svr02@192.168.0.228 apache_package=apache2 php_package=libapache2-mod-php
+
